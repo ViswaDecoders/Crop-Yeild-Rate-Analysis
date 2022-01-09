@@ -1,5 +1,6 @@
 # Crop-Yeild-Rate-Analysis
-It aims 
+We primarily aimed for to analyse how the each state water quality affects the crop yeild, we had taken 2 different data set, intially we cleaned the dataset i.e removing NULLs,modifying statenames etc and then merged it based on the common year and statewise to achieve a common dataset to analyse the relationship between the yeild of crops based on the containaments present in the water in each state. We used the set of models to analyse the data.
+Models used: Linear and Multilinear Regression, Random Forest, Neural Network
 
 # Developers
  - Viswanth
