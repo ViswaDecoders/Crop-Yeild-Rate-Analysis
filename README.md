@@ -8,8 +8,8 @@ Models used: Linear and Multilinear Regression, Random Forest, Neural Network.
  - Shravani
 
 # Data
-crop_production.csv -- various states crop production data ranging from 1997 - 2015
-water_dataX.csv -- various states water quality data ranging from 2003 - 2014
+- crop_production.csv -- various states crop production data ranging from 1997 - 2015
+- water_dataX.csv -- various states water quality data ranging from 2003 - 2014
 
 # Source code
 All data analysis is completly done using RStudio.
